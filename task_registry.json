@@ -1,0 +1,16 @@
+{
+  "strict_json_tasks": [
+    "recruiter_eval",
+    "profile_structuring",
+    "achievement_rewrite",
+    "resume_generation",
+    "cover_letter_generation",
+    "portfolio_generation",
+    "ats_analysis",
+    "Symptom Interpretation",
+    "Health Pattern Insight",
+    "Medical Specialization Suggestion",
+    "Doctor-Visit Summary",
+    "Health Chat"
+  ]
+}
